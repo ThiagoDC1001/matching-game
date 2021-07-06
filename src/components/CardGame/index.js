@@ -4,11 +4,10 @@ import "./style.css";
 //RSCSS??
 
 function CardGame() {
-  return /*html*/
-  `<figure class="card-game">
+  return /*html*/ `
+  <figure class="card-game">
       <img src="public/images/alura-pixel.svg" alt="Logo da Alura" class="icon">
-    </figure>
-    `;
-}
+  </figure>`
+};
 
 export default CardGame;
